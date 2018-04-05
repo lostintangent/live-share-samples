@@ -1,0 +1,9 @@
+[submodule "C++"]
+	path = C++
+	url = https://github.com/lostintangent/cpp-calculator
+[submodule "Node.js"]
+	path = Node.js
+	url = https://github.com/lostintangent/node-express-realworld-example-app.git
+[submodule "ASP.NET"]
+	path = ASP.NET
+	url = https://github.com/lostintangent/aspnetcore-realworld-example-app.git
