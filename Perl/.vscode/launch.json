@@ -7,20 +7,9 @@
         {
             "type": "perl",
             "request": "launch",
-            "name": "Perl-Debug local",
+            "name": "Launch",
             "program": "${workspaceFolder}/main.pl",
-            "exec": "perl",
             "root": "${workspaceFolder}/"
-            
-        },
-        {
-            "type": "perl",
-            "request": "launch",
-            "name": "Perl-Debug remote",
-            "program": "${workspaceFolder}/${relativeFile}",
-            "root": "${workspaceRoot}/",
-            "stopOnEntry": true,
-            "port": 5000
         }
     ]
 }
